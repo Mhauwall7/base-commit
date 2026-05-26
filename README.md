@@ -4,3 +4,4 @@ discord guide
 20 trasaction
 10 trasaction
 1 trasaction
+50 trasaction
