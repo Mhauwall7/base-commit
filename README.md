@@ -8,7 +8,7 @@ discord guide
 15 transaction
 day 10 
 day 5
-day 10
+day 30
 smart contract 5
 smart contract 1
 smart contract 3
