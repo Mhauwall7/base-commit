@@ -6,3 +6,4 @@ discord guide
 1 trasaction
 50 trasaction
 15 transaction
+day 10 
