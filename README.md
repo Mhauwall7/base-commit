@@ -11,3 +11,4 @@ day 5
 day 10
 smart contract 5
 smart contract 1
+smart contract 3
