@@ -17,3 +17,4 @@ day 1
 day15
 day 20
 30 transaction
+4 fig achive
