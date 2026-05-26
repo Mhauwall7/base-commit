@@ -20,3 +20,4 @@ day 20
 4 fig achive
 3 fig achive
 2 fig achive
+1 fig achive
