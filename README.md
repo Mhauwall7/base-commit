@@ -8,3 +8,4 @@ discord guide
 15 transaction
 day 10 
 day 5
+day 10
